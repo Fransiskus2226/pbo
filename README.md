@@ -1,6 +1,8 @@
 # Project PBO
 
 Project ini digunakan untuk praktek mata kuliah PBO.
+Nama :Fransiskus Reza
+NIM: 2015804329
 
 ## Instalasi
 
